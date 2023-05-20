@@ -1,1 +1,1 @@
-# Churn-Rate-Prediction
+# Churn Rate Prediction
