@@ -1,1 +1,1 @@
-# Churn-Rate-Project
+# Churn-Rate-Prediction
