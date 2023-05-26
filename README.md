@@ -1,9 +1,9 @@
 # Projeto - Churn Rate Prediction
 
 ## Problema de negócio: 
-Identificar antecipadamente os clientes que estão propensos a cancelar seus serviços, a fim de tomar medidas preventivas e efetivas para retê-los. A alta taxa de churn pode resultar em perda de receita, impactar a reputação da empresa e aumentar os custos de aquisição de novos clientes. Portanto, é essencial implementar estratégias inteligentes e baseadas em dados para prever o churn e desenvolver ações personalizadas de retenção, garantindo a satisfação e fidelidade do cliente.
+Identificar antecipadamente os clientes que estão propensos a cancelar seus serviços, a fim de tomar medidas preventivas e efetivas para retê-los. A alta taxa de churn pode resultar em perda de receita, impactar a reputação da empresa e aumentar os custos de aquisição de novos clientes.
 
-## Objetivo do projeto: 
+## Objetivo do projeto:
 Utilizar técnicas de Análise de dados e Machine Learning para identificar padrões e tendências que possam indicar a probabilidade de um cliente cancelar seu contrato, para que as empresas de telecomunicações consigam implementar estratégias proativas de retenção, como oferecer ofertas personalizadas, melhorar a qualidade do atendimento ao cliente, ajustar preços ou fornecer serviços adicionais que atendam às necessidades específicas do cliente.
 
 ## Origem dos Dados: 
